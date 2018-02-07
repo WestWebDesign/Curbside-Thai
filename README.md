@@ -1,6 +1,6 @@
 # Curbside-Thai
 Creating a website for a food vendor
-
+Get your book turn to page 14. 
 
 <h1>Objective</h1>
 
